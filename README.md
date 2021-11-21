@@ -17,6 +17,6 @@ I have trained a machine learning classifier using Random Forest algorithm.<br><
 
 ## Novelty
 
-- Precision agriculture is a modern farming technique that uses research data of soil characteristics, soil types, crop yield data collection and suggests the farmers the right crop based on their site-specific parameters.
-- The selection of crops & cropping system plays a major role in improving the productivity and profitability of the farmers. 
-- Crop recommendation system helps farmers during this decision making process by considering various parameters such as temperature, rainfall, and seasons and agro-ecological situations.
+- Based on a modern farming technique that uses research data of soil characteristics, soil types, crop yield data and suggests the farmers the right crop based on site-specific parameters, also known as Precision agriculture.
+- The selection of crops & cropping system is a important factor while aiming to enhance the profitability and productivity  of the farmers.
+- iCrop helps farmers during this decision making process by considering various parameters such as NPK and pH levels of the soil, rainfall and agro-ecological situations.
